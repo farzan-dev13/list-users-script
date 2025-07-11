@@ -36,13 +36,13 @@ john                 1001       Normal   Jul 10 2025              /bin/bash     
 
 ---
 
-```markdown
+
 ## 👤 Author
 
 **Created by:** Farzan Afringan  
 **GitHub:** [farzan-dev13](https://github.com/farzan-dev13)  
 **Date:** July 11, 2025
-```
+
 
 ---
 
