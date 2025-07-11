@@ -24,26 +24,26 @@ chmod +x list_users.sh
 
 Works on most Linux distributions, including Ubuntu, Debian, and Alpine.
 
-# 📁 Output Example
+## 📁 Output Example
 
-Username             UID        Type     Last Login               Shell                Status    
+```text
+Username             UID        Type     Last Login               Shell                Status
 -------------------------------------------------------------------------------------------------------------
-root                 0          System   Jul 9  2025              /bin/bash            Active    
-john                 1001       Normal   Jul 10 2025              /bin/bash            Active    
+root                 0          System   Jul 9  2025              /bin/bash            Active
+john                 1001       Normal   Jul 10 2025              /bin/bash            Active
 ...
-
-
----
-
-# 👤 Author
-
-
-Created by Farzan Afringan
-GitHub: farzan-dev15
-Date: July 11, 2025
+```
 
 ---
 
-Feel free to fork, improve, and contribute!
+```markdown
+## 👤 Author
+
+**Created by:** Farzan Afringan  
+**GitHub:** [farzan-dev13](https://github.com/farzan-dev13)  
+**Date:** July 11, 2025
+```
+
+---
 
 
